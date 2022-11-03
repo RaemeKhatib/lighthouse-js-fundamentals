@@ -21,3 +21,4 @@ let temperatureOutside = -50
 if (temperatureOutside < -40 || temperatureOutside > 40) {
   console.log("Maybe going outside isn't such a great idea…");
 }
+
